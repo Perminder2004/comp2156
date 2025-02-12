@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Perminder2004.github.io/https://github.com/Perminder2004/comp2156.git",
+  "homepage": "https://Perminder2004.github.io/comp2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Perminder2004/comp2156.git"

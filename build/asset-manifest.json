@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.27ca76a1.css",
-    "main.js": "/static/js/main.c37b780d.js",
-    "static/js/453.f27d8bf6.chunk.js": "/static/js/453.f27d8bf6.chunk.js",
-    "index.html": "/index.html",
-    "main.27ca76a1.css.map": "/static/css/main.27ca76a1.css.map",
-    "main.c37b780d.js.map": "/static/js/main.c37b780d.js.map",
-    "453.f27d8bf6.chunk.js.map": "/static/js/453.f27d8bf6.chunk.js.map"
+    "main.css": "/https://github.com/Perminder2004/comp2156.git/static/css/main.27ca76a1.css",
+    "main.js": "/https://github.com/Perminder2004/comp2156.git/static/js/main.377592e1.js",
+    "static/js/453.f27d8bf6.chunk.js": "/https://github.com/Perminder2004/comp2156.git/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/https://github.com/Perminder2004/comp2156.git/index.html",
+    "main.27ca76a1.css.map": "/https://github.com/Perminder2004/comp2156.git/static/css/main.27ca76a1.css.map",
+    "main.377592e1.js.map": "/https://github.com/Perminder2004/comp2156.git/static/js/main.377592e1.js.map",
+    "453.f27d8bf6.chunk.js.map": "/https://github.com/Perminder2004/comp2156.git/static/js/453.f27d8bf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.27ca76a1.css",
-    "static/js/main.c37b780d.js"
+    "static/js/main.377592e1.js"
   ]
 }
